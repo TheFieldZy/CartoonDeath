@@ -1,0 +1,5 @@
+name: CartoonDeath
+main: me.FieldZ.CartoonDeath.CartoonDeath
+authors: [FieldZ, Joka10]
+version: 0.1
+description: Players get cartoonic deaths. Very sadistic.
